@@ -22,3 +22,5 @@ Steps to deploy/run
 
 9.  To test, go back to project directory.  Do a mvn -Ptest.  Should receive a Hello Blaine Mincey response.
 
+10. To test with someting like SOAP-UI, use this WSDL http://localhost:8181/cxf/HelloWorld?wsdl .
+
